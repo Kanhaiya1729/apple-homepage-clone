@@ -1,0 +1,54 @@
+*{
+
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+
+}
+.document{
+    background-color: rgba(243, 244, 246);
+   
+}
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                 Arial, sans-serif;
+    font-weight: 600;
+}
+.nav1{
+     background-color: rgba(243, 244, 246);
+     display: flex;
+     gap: 40px;
+   justify-content: center;
+   height: 50px;
+   padding-top: 10px;
+
+}
+.variety{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-sec{
+    background-color: white;
+    text-align: center;
+}
+.main{
+    
+    text-align: center;
+  
+}
+.nav2{
+    background-color: white;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    
+}
+button {
+    background-color:rgba(26, 115, 231);
+    color: white;
+    border: 2px solid rgba(26, 115, 231);
+    padding: 10px 15px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
